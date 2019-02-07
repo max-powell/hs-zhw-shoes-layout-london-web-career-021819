@@ -29,7 +29,8 @@ section {
 }
 
 .col-1 {
-
+  width: 32%;
+  margin-left: 2%;
 }
 
 .col-2 {
