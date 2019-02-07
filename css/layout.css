@@ -41,3 +41,7 @@ section {
 .col-3 {
   width: 100%;
 }
+
+.first {
+  margin-left: 0;
+}
