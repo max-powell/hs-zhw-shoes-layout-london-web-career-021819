@@ -31,6 +31,7 @@ section {
 .col-1 {
   width: 32%;
   margin-left: 0;
+  float: left;
 }
 
 .col-2 {
