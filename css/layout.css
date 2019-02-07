@@ -28,7 +28,7 @@ section {
   margin-bottom: 2%;
 }
 
-.col-1 {
+.col-3 {
   width: 32%;
   margin-left: 2%;
   float: left;
@@ -39,7 +39,7 @@ section {
   float: left;
 }
 
-.col-3 {
+.col-1 {
   width: 100%;
 }
 
