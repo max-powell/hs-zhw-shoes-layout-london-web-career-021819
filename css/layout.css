@@ -24,6 +24,10 @@
 
 /* Positioning Classes */
 
+section {
+  margin-bottom: 2px
+}
+
 .col-1 {
 
 }
